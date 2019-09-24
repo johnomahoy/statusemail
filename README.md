@@ -5,7 +5,7 @@ The script will update the contact custom fields for the contact and scan if the
 These are the expected data from the user:contactId\
                                             ABBV\
                                             StatusUpdate\
-                                            Company\
+                                            Company
                              
  Developed by: kurl
  
